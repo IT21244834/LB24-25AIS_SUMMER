@@ -1,7 +1,7 @@
 export const igv_ir_m = [
   {
     id: 1,
-    title: "IR Manager",
+    title: "UDARA",
     subTitile01: "Job Description",
     jobDescription: [
       " Check the Matching Tracker and keep it updated.",
